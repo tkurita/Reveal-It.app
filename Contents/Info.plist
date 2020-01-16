@@ -26,7 +26,7 @@
 	<key>CFBundleIconFile</key>
 	<string>droplet</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.script-factory.RevealIt</string>
+	<string>net.script-factory.Reveal-It</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -55,9 +55,9 @@
 		<key>bundleDividerCollapsed</key>
 		<false/>
 		<key>bundlePositionOfDivider</key>
-		<real>749</real>
+		<real>487</real>
 		<key>dividerCollapsed</key>
-		<false/>
+		<true/>
 		<key>eventLogLevel</key>
 		<integer>2</integer>
 		<key>name</key>
@@ -65,7 +65,7 @@
 		<key>positionOfDivider</key>
 		<real>289</real>
 		<key>savedFrame</key>
-		<string>120 143 1048 672 0 0 1440 877 </string>
+		<string>144 190 786 686 0 0 1440 877 </string>
 		<key>selectedTab</key>
 		<string>result</string>
 	</dict>
